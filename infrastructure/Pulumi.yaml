@@ -1,0 +1,3 @@
+name: partplanner-backend
+runtime: nodejs
+description: Infrastructure for deploying a containerised springboot service
