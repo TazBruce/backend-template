@@ -1,10 +1,10 @@
-package nz.co.partplanner.backend
+package con.github.TazBruce.backend // CHANGE THIS
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class PartPlannerBackendApplicationTests {
+class BackendApplicationTests {
 
     @Test
     fun contextLoads() {

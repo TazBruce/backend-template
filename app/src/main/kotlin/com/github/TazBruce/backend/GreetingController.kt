@@ -1,4 +1,4 @@
-package nz.co.partplanner.backend
+package com.github.TazBruce.backend // CHANGE THIS
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestParam

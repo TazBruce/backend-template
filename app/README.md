@@ -1,2 +1,2 @@
-# partplanner-backend
-backend for partplanner apps
+# Hello World Backend
+Backend Template

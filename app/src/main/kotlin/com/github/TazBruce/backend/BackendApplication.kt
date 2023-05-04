@@ -1,14 +1,14 @@
-package nz.co.partplanner.backend
+package com.github.TazBruce.backend // CHANGE THIS
 
 import org.springframework.boot.Banner
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class PartPlannerBackendApplication
+class BackendApplication
 
 fun main(args: Array<String>) {
-    runApplication<PartPlannerBackendApplication>(*args) {
+    runApplication<BackendApplication>(*args) {
         setBannerMode(Banner.Mode.OFF)
     }
 }
