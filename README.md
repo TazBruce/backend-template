@@ -28,6 +28,7 @@ This is a backend template using Kotlin, Spring Boot and AWS. This utilises Pulu
 11. Scroll down to Environment variables and add the following:
 - Key: AWS_ACCESS_KEY_ID Value: {YOUR AWS IAM USER KEY ID}
 - Key: AWS_SECRET_ACCESS_KEY Value: {YOUR AWS IAM USER ACCESS KEY}
+
   MAKE SURE "SECRET" is ticked!
 
   ![Settings](https://i.ibb.co/PCL00wC/image.png)
@@ -49,7 +50,8 @@ This is a backend template using Kotlin, Spring Boot and AWS. This utilises Pulu
 
 13. Commit and push your changes to main
 
-14. Welldone! Pulumi will now automatically deploy your app to AWS and provide you with the URL to access it in the activity section
+14. Well done! Pulumi will now automatically deploy your app to AWS and provide you with the URL 
+    to access it in the activity section
 
 
 ## Things to add
