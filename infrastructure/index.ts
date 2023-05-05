@@ -5,7 +5,7 @@ import * as awsx from "@pulumi/awsx";
 const config = new pulumi.Config();
 const containerPort = config.getNumber("containerPort") || 8080;
 const cpu = config.getNumber("cpu") || 512;
-const memory = config.getNumber("memory") || 1024;
+const memory = config.getNumber("memory") || 512;
 const environment = config.get("environment") || "dev";
 const projectName = config.get("projectName") || "test-backend";
 
