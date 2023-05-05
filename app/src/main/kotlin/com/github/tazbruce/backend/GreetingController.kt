@@ -1,4 +1,4 @@
-package com.github.TazBruce.backend // CHANGE THIS
+package com.github.tazbruce.backend // CHANGE THIS
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestParam

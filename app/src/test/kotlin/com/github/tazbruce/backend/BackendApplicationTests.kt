@@ -1,4 +1,4 @@
-package con.github.TazBruce.backend // CHANGE THIS
+package con.github.tazbruce.backend // CHANGE THIS
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

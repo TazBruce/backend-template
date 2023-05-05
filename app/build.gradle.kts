@@ -8,7 +8,7 @@ plugins {
     kotlin("plugin.jpa") version "1.7.22"
 }
 
-group = "com.github.TazBruce" // CHANGE THIS AND THE RELEVANT SRC FOLDERS TO YOUR GITHUB USERNAME
+group = "com.github.tazbruce" // CHANGE THIS AND THE RELEVANT SRC FOLDERS TO YOUR GITHUB USERNAME
 version = "0.0.1-SNAPSHOT"
 java.sourceCompatibility = JavaVersion.VERSION_17
 

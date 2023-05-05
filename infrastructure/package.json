@@ -1,5 +1,5 @@
 {
-    "name": "partplanner-backend",
+    "name": "template-backend",
     "devDependencies": {
 	    "@types/node": "^16"
     },
